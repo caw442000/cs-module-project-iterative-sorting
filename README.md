@@ -1,4 +1,4 @@
-# Module Project - Iterative Sortin
+# Module Project - Iterative Sorti
 
 ## Algorithms
 
